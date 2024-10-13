@@ -13,7 +13,7 @@ Before you begin, ensure you have the following:
 
 ## Setup
 
-### 1. Install and Configure OCI CLI
+### Install and Configure OCI CLI
 
 If you haven't already, install the OCI CLI by following the [official documentation](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm).
 

@@ -49,7 +49,7 @@ domain_name      = "your-domain.com"
 ## What this specific project does
 - Creates a VCN with a public subnet
 - Sets up security list rules for inbound traffic (ports 22, 80, 443, 8080)
-- Launches an Ubuntu instance with 2 OCPUs and 12GB memory
+- Launches an ARM-based Ubuntu instance with 2 OCPUs and 12GB memory
 - Generates a new SSH key pair for the instance
 - Creates DNS zone and records for the specified domain
 - Outputs instance IP, SSH keys, and nameservers
